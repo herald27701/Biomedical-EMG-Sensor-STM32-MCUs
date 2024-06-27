@@ -1,4 +1,4 @@
-# Biomedical-EMG-Sensor-STM32-MCUs
+# Qua nhánh master để lấy code.
 Mạch y sinh đo điện cơ EMG được xử lí bởi MCU STM32
 Chi tiết về 2 con STM32: 1 con STM32F103C8T6 bluepill có gắn mạch EMG và I2C LCD để hiển thị thông số đo của mạch EMG, động cơ servo sẽ do mạch EMG điều khiển
                           1 con STM32F103RCT6 Grapini của Grapetech, tham khảo tại https://store.grapetech.vn/product/bo-mach-vdk-grape32-unleashed-kit/
@@ -15,3 +15,4 @@ Paper về EMG và Mạch EMG: http://jst.tnu.edu.vn/jst/article/viewFile/4115/p
 Interupt: https://tapit.vn/su-dung-uart-interrupt-rx-voi-cube-mx-tren-mcu-stm32f103c8t6/
 I2C Module: https://tapit.vn/giao-tiep-stm32f103c8t6-voi-lcd-16x2-thong-qua-module-i2c/
 STM32 Servo Control Config: https://controllerstech.com/servo-motor-with-stm32/
+
